@@ -335,7 +335,7 @@ const IDCard = ({ student, index, onDownload }) => {
 							<div className="w-[80px] h-[80px] rounded-full overflow-hidden bg-white">
 								{" "}
 							</div>
-							<img src="/logo2.png" width={100} alt="logo" className="absolute top-[2px] -left-[8px]"/>
+							<img src="logo2.png" width={100} alt="logo" className="absolute top-[2px] -left-[8px]"/>
 						</div>
 						<div>
 							<h1
@@ -390,7 +390,7 @@ const IDCard = ({ student, index, onDownload }) => {
 									style={{ backgroundColor: "#ffffff" }}
 								>
 									<div
-										className="w-[386px] h-[480px] rounded flex items-center justify-center overflow-hidden"
+										className="w-[256px] h-[320px] rounded flex items-center justify-center overflow-hidden"
 										style={{
 											backgroundColor: "#e5e7eb",
 											backgroundImage: `url( ${
