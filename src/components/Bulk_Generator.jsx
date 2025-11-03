@@ -390,7 +390,7 @@ const IDCard = ({ student, index, onDownload }) => {
 									style={{ backgroundColor: "#ffffff" }}
 								>
 									<div
-										className="w-64 h-80 rounded flex items-center justify-center overflow-hidden"
+										className="w-[386px] h-[480px] rounded flex items-center justify-center overflow-hidden"
 										style={{
 											backgroundColor: "#e5e7eb",
 											backgroundImage: `url( ${
